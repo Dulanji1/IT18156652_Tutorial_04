@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Class_App_Dula_Tute04</string>
+    <string name="uname">uname</string>
+    <string name="l1">User Name</string>
+    <string name="l2">Password</string>
+    <string name="h1">name</string>
+    <string name="h2">password</string>
+    <string name="b1">Select All</string>
+    <string name="b2">Add</string>
+    <string name="b3">Sign In</string>
+    <string name="b4">Delete</string>
+    <string name="b5">Update</string>
+</resources>
